@@ -1,0 +1,1 @@
+msbuild && cp ./bin/Debug/VEngine.dll ../VBrowser
